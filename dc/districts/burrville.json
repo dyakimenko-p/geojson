@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "title": "Burrville"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.92356050014494,
+              38.90414429883023
+            ],
+            [
+              -76.92564994096756,
+              38.89834766079331
+            ],
+            [
+              -76.91621124744415,
+              38.89838732251011
+            ],
+            [
+              -76.92356050014494,
+              38.90414429883023
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
